@@ -1,0 +1,10 @@
+* {
+   box-sizing: border-box;
+}
+body {
+   background-image: url('./../img/img01.jpg');
+   background-size: cover;
+   
+}
+
+@import "./blocks/*.scss";

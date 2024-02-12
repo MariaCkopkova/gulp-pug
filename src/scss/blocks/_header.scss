@@ -1,0 +1,16 @@
+.header {
+   background-color: rgba(75, 97, 38, 0.836);
+   padding: 100px 0;
+   font-size: 20px;
+   text-align: center;
+   color: rgb(218, 134, 25)
+}
+.title {
+   color: rgb(54, 19, 19);
+}
+.nav {
+   display: flex;
+   padding-left: 30px;
+   gap: 60px;
+   user-select: none;
+}
